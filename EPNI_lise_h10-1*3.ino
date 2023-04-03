@@ -1,3 +1,7 @@
+/*
+Bu kod tarafımdan yazılmamıştır.
+Bu kodda emeği geçen hocalarımıza çok teşekkürler.
+*/
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include "ThingSpeak.h"
