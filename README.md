@@ -1,11 +1,11 @@
-# Denayap EPNI Kod Repo
+# Denayap EPNI Kod ve Uygulamaları
 
 ## Hakkında
 
-Bu repo ders içeriklerinde hatalı olan kodları veya uzun olan kodları öğrencilerle paylaşmak için oluşturuldu.
+Bu repo öncelikle **Elektronik Programlama ve Nesnelerin İnterneti** müfredatı ders içeriklerinde hatalı olan vwya uzun olan kodları yeni oluşturulan uygulamaları öğrencilerle paylaşmak için oluşturuldu.
 
 ### İsimlendirme
-**Örnek İsimlendirme:** *lise_h10-1*3.ino* => lise-10.hafta-1.3 Numaralı Uygulama
+**Örnek İsimlendirme:** *EPNI_lise_h10-1\*3.ino* => EPNI-lise-10.hafta-1.3 Numaralı uygulamanın .ino uzantılı dosyası
 
 ## Teşekkür
 
