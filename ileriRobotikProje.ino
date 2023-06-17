@@ -10,7 +10,7 @@
 #define solKalca 9
 #define solDiz 10
 
-Servo srvSagKalca, srcSagDiz, srvSagKalca, srcSagDiz;
+Servo srvSagKalca, srvSagDiz, srvSagKalca, srvSagDiz;
 
 int readX1, readY1, readX2, readY2;
 int posSagKalca, posSagDiz, posSolKalca, posSolDiz;
@@ -27,10 +27,10 @@ void setup(){
     pinMode(Y2, INPUT);
 }
 void loop(){
-    posSagKalca = map(analogRead(sagKalca),0,1023,0,180);
-    posSagDiz = map(analogRead(sagDiz),0,1023,0,180);
-    posSolKalca = map(analogRead(solKalca),0,1023,0,180);
-    posSolDiz = map(analogRead(sagDiz),0,1023,0,180);
+    posSagKalca = map(analogRead(X1),0,1023,180,0);
+    posSagDiz = map(analogRead(Y1),0,1023,180,0);
+    posSolKalca = map(analogRead(X2),0,1023,0,180);
+    posSolDiz = map(analogRead(Y2),0,1023,0,180);
 
     srvSagKalca.write(posSagKalca);
     srvSagDiz.write(posSagDiz);
