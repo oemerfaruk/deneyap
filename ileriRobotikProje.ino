@@ -10,7 +10,7 @@
 #define solKalca 9
 #define solDiz 10
 
-Servo srvSagKalca, srvSagDiz, srvSagKalca, srvSagDiz;
+Servo srvSagKalca, srvSagDiz, srvSolKalca, srvSolDiz;
 
 int readX1, readY1, readX2, readY2;
 int posSagKalca, posSagDiz, posSolKalca, posSolDiz;
