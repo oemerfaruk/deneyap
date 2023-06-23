@@ -1,11 +1,12 @@
-#include<Servo.h>
+#include<Servo.h> // Arduino için servo kütühanesi
+#include<Deneyap_Servo.h> // Deneyap için servo kütühanesi
 
 #define X1 A0
 #define Y1 A1
 #define X2 A2
 #define Y2 A3
 
-#define sagKalca 5
+#define sagKalca 5 // deneyap kart için D5
 #define sagDiz 6
 #define solKalca 9
 #define solDiz 10
