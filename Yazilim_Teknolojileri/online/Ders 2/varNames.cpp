@@ -29,6 +29,7 @@ int main(){
     float 2age = 10.0; // değişken adları rakam ile başlayamaz
     int second name = "faruk"; // değişken adlarında boşluk bulunmaz
     char include = 'i'; // anahtar ifadeler değişken adı olarak kullanılamaz
+    string yaş   // türkçe karekterler kullanılamaz
     */
 
 
