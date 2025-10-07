@@ -8,7 +8,7 @@ Bu repo Deneyap müfredatı sırasında eğitmenler ve öğrenciler tarafından 
 
 # Başlarken
 
-Bu repo'da kullanılan her içerik eğitim amaçlı olup eğitim ve öğretim için doğrudan ve değiştirilerek kullanılabilir. Ticari olarak kullanılması ise geliştiriciler tarafından kabul edilmemektedir veya rızası alınmamıştır.
+Bu repo'da kullanılan her içerik eğitim amaçlı olup eğitim ve öğretim için doğrudan veya değiştirilerek kullanılabilir. Ticari olarak kullanılması ise geliştiriciler tarafından kabul edilmemektedir veya rızası alınmamıştır.
 
 ## Küçük bilgilendirmeler
 
@@ -17,4 +17,4 @@ Bu repo'da kullanılan her içerik eğitim amaçlı olup eğitim ve öğretim i�
 
 # Teşekkür
 
-Bu reponun oluşmasında destek olacak bütün eğitmen ve öğrencilere şimdiden teşekkürlerimi sunarım.
+Bu reponun oluşmasında destek olacak bütün eğitmen ve öğrencilere şimdiden teşekkürlerimizi sunarız.
