@@ -1,6 +1,6 @@
 # Denayap Dersleri Kod ve Uygulamaları
 
-![Hello Cartoon](https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM)
+![Hello Simpsons Cartoon]([https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdkOXl4NmZjcnB0d242djBieHY1MzNzdHE4anhjdWZkbWRkZTZ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif))
 
 Bu repo Deneyap müfredatı sırasında eğitmenler ve öğrenciler tarafından geliştirilen kodlar, projeler ve ders materyallerini içerir.
 
